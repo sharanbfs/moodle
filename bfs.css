@@ -1,3 +1,4 @@
-.bar-content .title{
-  color: #a6c348;
+bar-content bar bar-header{
+  color: red;
+  background: #a6c348;
 }
